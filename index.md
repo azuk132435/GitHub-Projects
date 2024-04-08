@@ -12,7 +12,7 @@ One git command I used that wasn't listed was:
 ```
 git status
 ```
-Site:[GitHub Pages](https://pages.github.com/)
+Site created using:[GitHub Pages](https://pages.github.com/)
 
 [Link to Images](#Images)
 
