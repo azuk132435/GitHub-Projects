@@ -1,11 +1,12 @@
 # Kevin's User Page
+## Section Link
 ![Example Image](https://media.self.com/photos/5d8a5f472aa2920009962a7e/4:3/w_4992,h_3744,c_limit/GettyImages-699099379.jpg)
 ![Example Image 2](https://turbosmurfs.gg/storage/splash/Volibear_9.jpg)
 ## Introduction
 Hello, I'm Kevin Truong and I am a 3rd year transfer **computer science major**.
 >Transferred from Miramar Community College.
 
-## Section Link
+
 
 One git command I used that wasn't listed was:
 ```
