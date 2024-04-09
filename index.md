@@ -14,7 +14,7 @@ git status
 ```
 Site created using:[GitHub Pages](https://pages.github.com/)
 
-[Go to Pictures](#Pictures)
+[Go to Pictures](#pictures)
 
 [Link to Another Document](README.md)
 
