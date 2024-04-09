@@ -1,4 +1,5 @@
 # Kevin's User Page
+
 ## Pictures
 ![Example Image](https://media.self.com/photos/5d8a5f472aa2920009962a7e/4:3/w_4992,h_3744,c_limit/GettyImages-699099379.jpg)
 ![Example Image 2](https://turbosmurfs.gg/storage/splash/Volibear_9.jpg)
@@ -14,7 +15,7 @@ git status
 ```
 Site created using:[GitHub Pages](https://pages.github.com/)
 
-[Go to Pictures](#pictures)
+[Link to Pictures section](#pictures)
 
 [Link to Another Document](README.md)
 
